@@ -36,8 +36,8 @@ export default async function Login() {
             <h3>Welcome</h3>
             <Image src="/assets/icons/hand.png" alt="hand" width={30} height={30} />
             <p>Please login here</p>
-            <LoginForm />
           </div>
+          <LoginForm />
         </div>
       </div>
     </section>
